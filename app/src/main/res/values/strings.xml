@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IntentDataExample</string>
+    <string-array name="intents">
+        <item>Abrir Navegador</item>
+        <item>Llamar a alguien</item>
+        <item>Marcar</item>
+        <item>Mostrar ubicación en mapa</item>
+        <item>Buscar en el mapa</item>
+        <item>Tomar una foto</item>
+        <item>Mostrar contactos</item>
+        <item>Editar primer contacto</item>
+    </string-array>
+    <string name="lanzar">Lanzar Intent</string>
+    <string name="txvMessage">Seleccione acción a realizar:</string>
+    <string name="message_permission_camera">Se debe aceptar el permiso para el correcto funcionamiento de la aplicación.</string>
+    <string name="menu_settings">Configuración</string>
+</resources>

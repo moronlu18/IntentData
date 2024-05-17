@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intent Data View</string>
+    <string name="lanzar">Send Intent</string>
+    <string name="menu_settings">Settings</string>
+    <string name="message_permission_camera">You must accept permission</string>
+    <string name="txvMessage">" Select action to perform:"</string>
+    <string-array name="intents">
+        <item>Open Browser</item>
+        <item>Call Someone</item>
+        <item>Dial</item>
+        <item>Show Map</item>
+        <item>Search on Map</item>
+        <item>Take picture</item>
+        <item>Show contacts</item>
+        <item>Edit first contact</item>
+    </string-array>
+</resources>
